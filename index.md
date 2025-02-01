@@ -1,3 +1,5 @@
+[//]: # (Comment: This is your main page, it and all of the sub-pages are coded in Markdown. There is a guide to Markdown in script/reference_index.md and this site is good too https://markdown-it.github.io/)
+
 ---
 layout: default
 ---
