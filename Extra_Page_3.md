@@ -6,7 +6,7 @@ layout: default
 
 |    |    |    |
 |----|----|----|
-| [__Extra Page 1__](./Extra_Page_1.html) | [__Extra Page 3__](./Extra_Page_2.html) | [__Extra Page 2__](./Extra_Page_3.html) |
+| [__Extra Page 1__](./Extra_Page_1.html) | [__Extra Page 2__](./Extra_Page_2.html) | [__Extra Page 3__](./Extra_Page_3.html) |
 
 <br/>
 ## A Page 3 Title
